@@ -1,0 +1,64 @@
+h1 {
+  color: red;
+  border-radius: 10px;
+  border-radius: 5px;
+}
+.img2 {
+  color: aqua;
+  border-radius: 10px;
+  width: 170px;
+  height: 30px;
+  padding-top: 15px;
+}
+
+.div2 {
+  display: flex;
+  padding-left: 100px;
+  padding-right: 100px;
+  box-shadow: 2px 2px 2px lightgray;
+}
+.div3 {
+  display: flex;
+  gap: 20px;
+  margin-left: auto;
+}
+.div4 {
+  justify-content: end;
+  padding: 20px;
+  font-size: bold;
+  cursor: pointer;
+}
+.div4:hover {
+  background-color: lightgray;
+  border-radius: 5px;
+  transition: background-color 0.3s ease-in-out;
+}
+
+.div7 {
+  justify-content: center;
+  display: flex;
+}
+
+.div8 {
+  background-color: lightblue;
+  border-radius: 3px;
+  padding-bottom: 10px;
+  padding-right: 10px;
+  padding-top: 10px;
+  padding-left: 10px;
+}
+.div9 {
+  display: flex;
+  justify-content: center;
+  border-radius: 10px;
+}
+.div10 {
+  display: flex;
+  justify-content: center;
+  cursor: pointer;
+}
+
+.div:hover {
+  background-color: lightblue;
+  transition: background-color 0.3s ease-in-out;
+}
